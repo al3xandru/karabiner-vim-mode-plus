@@ -7,7 +7,7 @@
   "import_url": "karabiner://karabiner/assets/complex_modifications/import?url=https://git.sr.ht/~harmtemolder/karabiner-vim-mode-plus/blob/master/vim_mode_plus.json",
   "rules": [
     {
-      "description": "(Vim 1/11) caps_lock -> on, caps_lock, esc, control+[ or any pointing_button -> off",
+      "description": "(Vim 1/11) caps_lock -> on, caps_lock, enter, esc, control+[ or any pointing_button -> off",
       "manipulators": [
         {
           "type": "basic",
@@ -113,6 +113,42 @@
             },
             {
               "shell_command": "osascript -e 'display notification with title \"-- INSERT --\"'"
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "com.googlecode.iterm2",
+                "com.github.atom",
+                "com.jetbrains.pycharm",
+                "com.visualstudio.code.oss"
+              ]
+            },
+            {
+              "name": "vim_mode",
+              "type": "variable_if",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "type": "basic",
+          "from": {
+            "key_code": "return_or_enter"
+          },
+          "to": [
+            {
+              "set_variable": {
+                "name": "vim_mode",
+                "value": 0
+              }
+            },
+            {
+              "shell_command": "osascript -e 'display notification with title \"-- INSERT --\"'"
+            },
+            {
+              "key_code": "return_or_enter"
             }
           ],
           "conditions": [

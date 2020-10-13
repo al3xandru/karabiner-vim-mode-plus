@@ -8,9 +8,10 @@ A complex modification for [Karabiner Elements](https://karabiner-elements.pqrs.
 
 * Activate with <code>caps lock</code>.
 * Deactivate with:
-  - <code>i</code> or <code>a</code> (there are more like these, see below)
+  - <code>i</code> or <code>a</code> (there are more like these, see below),
   - <code>caps lock</code>,
   - <code>escape</code>,
+  - <code>enter</code>, which also sends an <code>enter</code> key press,
   - <code>control</code>+<code>[</code>,
   - Clicking any mouse button
   - Pressing any key within Atom, iTerm2, PyCharm or VSCodium (because those have their own Vim modes)
