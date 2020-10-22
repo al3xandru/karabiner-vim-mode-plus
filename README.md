@@ -1,6 +1,6 @@
 # Karabiner Vim Mode Plus
 
-A complex modification for [Karabiner Elements](https://karabiner-elements.pqrs.org/) that mimics [Vim's navigation](https://vim.fandom.com/wiki/Moving_around) throughout your entire Mac.
+A complex modification for [Karabiner Elements](https://karabiner-elements.pqrs.org/) that mimics [Vim’s navigation](https://vim.fandom.com/wiki/Moving_around) throughout your entire Mac.
 
 ## 1. So what do you get?
 
@@ -69,7 +69,7 @@ key | action
 <code>o</code> | Exit NORMAL mode on a new line below the cursor
 <code>O</code> | Exit NORMAL mode on a new line above the cursor
 
-I've also mapped 3 keys to <code>F18</code>, <code>F19</code> and <code>F20</code>, which I pick up on within [Hammerspoon](https://www.hammerspoon.org/) to load specific modals:
+I’ve also mapped 3 keys to <code>F18</code>, <code>F19</code> and <code>F20</code>, which I pick up on within [Hammerspoon](https://www.hammerspoon.org/) to load specific modals:
 
 key | action
 --- | ---
@@ -99,12 +99,18 @@ key | action
 
     <a href="karabiner://karabiner/assets/complex_modifications/import?url=https://git.sr.ht/~harmtemolder/karabiner-vim-mode-plus/blob/master/vim_mode_plus.json" target="_blank">karabiner://karabiner/assets/complex_modifications/import?url=https://git.sr.ht/~harmtemolder/karabiner-vim-mode-plus/blob/master/vim_mode_plus.json</a>
 
-    (You might have to copy and paste it into your browser's address bar if your browser does not render it as a clickable link.)
+    (You might have to copy and paste it into your browser’s address bar if your browser does not render it as a clickable link.)
 
 ## 3. Making changes
 
-I write my complex modifications in `YML` files, converting them into `JSON` using `yml-to-json.py`. You don't have to, but you can, if you want to. Either way, make sure to remove and re-add all parts of this mod in Karabiner's “Complex modifications” tab after making changes. The order they are in is important.
+I write my complex modifications in `YML` files, converting them into `JSON` using `yml-to-json.py`. You don’t have to, but you can, if you want to. Either way, make sure to remove and re-add all parts of this mod in Karabiner’s “Complex modifications” tab after making changes. The order they are in is important.
 
-## 4. Reporting issues
+## 4. Contributing
 
-If you encounter any issues, please report them [here](https://todo.sr.ht/~harmtemolder/karabiner-vim-mode-plus). (If you need help with sourcehut's issue tracker, see [this man page](https://man.sr.ht/todo.sr.ht/).) I'd also love to hear additions you would like to see to this setup.
+If you’ve made changes that you’d like to contribute to this repository, please use `git send-email` to post a patch to [~harmtemolder/karabiner-vim-mode-plus@lists.sr.ht](mailto:~harmtemolder/karabiner-vim-mode-plus@lists.sr.ht). Follow [this tutorial](https://git-send-email.io/) to learn how to use `git send-email`.
+
+See [the mailing list](https://lists.sr.ht/~harmtemolder/karabiner-vim-mode-plus) for previous patches.
+
+## 5. Reporting issues
+
+If you encounter any issues, please report them [here](https://todo.sr.ht/~harmtemolder/karabiner-vim-mode-plus). (If you need help with sourcehut’s issue tracker, see [this man page](https://man.sr.ht/todo.sr.ht/).) I’d also love to hear additions you would like to see to this setup. And feel free to [contribute](#4-contributing).
