@@ -30,6 +30,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -53,6 +54,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -73,6 +75,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -94,6 +97,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -117,6 +121,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -137,6 +142,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -192,6 +198,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -218,6 +225,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -237,6 +245,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -256,6 +265,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -275,6 +285,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -294,6 +305,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -314,6 +326,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -334,6 +347,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -358,6 +372,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -381,6 +396,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -404,6 +420,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -430,6 +447,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -456,6 +474,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -482,6 +501,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -505,6 +525,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -528,6 +549,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -554,6 +576,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -580,6 +603,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -606,6 +630,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -630,6 +655,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -650,6 +676,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -670,6 +697,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -690,6 +718,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -718,6 +747,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -753,6 +783,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -782,6 +813,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -811,6 +843,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -844,6 +877,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -876,6 +910,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -908,6 +943,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -940,6 +976,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -972,6 +1009,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -1004,6 +1042,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -1036,6 +1075,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -1064,6 +1104,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -1095,6 +1136,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -1130,6 +1172,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -1159,6 +1202,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -1188,6 +1232,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -1221,6 +1266,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -1253,6 +1299,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -1285,6 +1332,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -1317,6 +1365,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -1349,6 +1398,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -1381,6 +1431,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -1413,6 +1464,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -1445,6 +1497,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -1476,6 +1529,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -1515,6 +1569,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -1548,6 +1603,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -1581,6 +1637,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -1618,6 +1675,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -1654,6 +1712,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -1690,6 +1749,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -1722,6 +1782,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -1758,6 +1819,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -1794,6 +1856,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -1830,6 +1893,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -1866,6 +1930,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -1888,6 +1953,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -1908,6 +1974,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -1927,6 +1994,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -1949,6 +2017,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -1968,6 +2037,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -1991,6 +2061,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -2016,6 +2087,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -2039,6 +2111,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -2062,6 +2135,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -2085,6 +2159,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -2104,6 +2179,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -2123,6 +2199,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -2145,6 +2222,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -2167,6 +2245,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -2189,6 +2268,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -2215,6 +2295,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -2240,6 +2321,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -2265,6 +2347,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -2287,6 +2370,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -2309,6 +2393,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -2331,6 +2416,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -2357,6 +2443,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -2377,6 +2464,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -2403,6 +2491,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -2427,6 +2516,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -2455,6 +2545,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -2478,6 +2569,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -2499,6 +2591,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -2520,6 +2613,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -2542,6 +2636,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -2562,6 +2657,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -2582,6 +2678,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -2602,6 +2699,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -2622,6 +2720,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -2642,6 +2741,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -2662,6 +2762,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -2682,6 +2783,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
@@ -2702,6 +2804,7 @@ rules:
               - com.googlecode.iterm2
               - com.github.atom
               - com.jetbrains.pycharm
+              - com.jetbrains.intellij
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
