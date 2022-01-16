@@ -1,5 +1,11 @@
 # Karabiner Vim Mode Plus
 
+> **Hi,**
+>
+> **I'm looking for someone who wants to maintain this mod, since I don't have a Mac anymore and therefore cannot test any changes. Please contact me if you're up for this.**
+>
+> **Harm**
+
 A complex modification for [Karabiner Elements](https://karabiner-elements.pqrs.org/) that mimics [Vim’s navigation](https://vim.fandom.com/wiki/Moving_around) throughout your entire Mac.
 
 ## 1. So what do you get?
