@@ -2,8 +2,8 @@ title: Vim Mode Plus
 maintainers:
   - harmtemolder
   - alex
-homepage: https://git.sr.ht/~harmtemolder/karabiner-vim-mode-plus
-import_url: karabiner://karabiner/assets/complex_modifications/import?url=https://git.sr.ht/~harmtemolder/karabiner-vim-mode-plus/blob/master/vim_mode_plus.json
+homepage: https://github.com/al3xandru/karabiner-vim-mode-plus/tree/alex/customizations
+import_url: karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/al3xandru/karabiner-vim-mode-plus/alex/customizations/vim_mode_plus.json
 rules:
   - description: (Vim 1/11) caps_lock -> on/off
     manipulators:
