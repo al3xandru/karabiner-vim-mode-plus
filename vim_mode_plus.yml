@@ -1,10 +1,11 @@
 title: Vim Mode Plus
 maintainers:
   - harmtemolder
+  - alex
 homepage: https://git.sr.ht/~harmtemolder/karabiner-vim-mode-plus
 import_url: karabiner://karabiner/assets/complex_modifications/import?url=https://git.sr.ht/~harmtemolder/karabiner-vim-mode-plus/blob/master/vim_mode_plus.json
 rules:
-  - description: (Vim 1/11) caps_lock -> on, caps_lock, enter, esc, control+[ or any pointing_button -> off
+  - description: (Vim 1/11) caps_lock -> on/off
     manipulators:
       - type: basic  # [caps lock] Enter vim mode
         from:
@@ -34,6 +35,7 @@ rules:
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
+              - org.vim.MacVim
           - name: vim_mode
             type: variable_unless
             value: 1
@@ -49,18 +51,11 @@ rules:
               value: 0
           - shell_command: osascript -e 'display notification with title "-- INSERT --"'
         conditions:
-          - type: frontmost_application_unless
-            bundle_identifiers:
-              - com.googlecode.iterm2
-              - com.github.atom
-              - com.jetbrains.pycharm
-              - com.jetbrains.intellij
-              - com.visualstudio.code.oss
-              - md.obsidian
-              - io.imdone.app
           - name: vim_mode
             type: variable_if
             value: 1
+  - description: (Vim off 1/5) esc
+    manipulators:
       - type: basic  # [escape] Exit vim mode
         from:
           key_code: escape
@@ -70,18 +65,11 @@ rules:
               value: 0
           - shell_command: osascript -e 'display notification with title "-- INSERT --"'
         conditions:
-          - type: frontmost_application_unless
-            bundle_identifiers:
-              - com.googlecode.iterm2
-              - com.github.atom
-              - com.jetbrains.pycharm
-              - com.jetbrains.intellij
-              - com.visualstudio.code.oss
-              - md.obsidian
-              - io.imdone.app
           - name: vim_mode
             type: variable_if
             value: 1
+  - description: (Vim off 2/5) return
+    manipulators:
       - type: basic  # [enter] Exit vim mode and send return_or_enter
         from:
           key_code: return_or_enter
@@ -92,18 +80,11 @@ rules:
           - shell_command: osascript -e 'display notification with title "-- INSERT --"'
           - key_code: return_or_enter
         conditions:
-          - type: frontmost_application_unless
-            bundle_identifiers:
-              - com.googlecode.iterm2
-              - com.github.atom
-              - com.jetbrains.pycharm
-              - com.jetbrains.intellij
-              - com.visualstudio.code.oss
-              - md.obsidian
-              - io.imdone.app
           - name: vim_mode
             type: variable_if
             value: 1
+  - description: (Vim off 3/5) control+[
+    manipulators:
       - type: basic  # [control+[] Exit vim mode
         from:
           key_code: open_bracket
@@ -116,18 +97,11 @@ rules:
               value: 0
           - shell_command: osascript -e 'display notification with title "-- INSERT --"'
         conditions:
-          - type: frontmost_application_unless
-            bundle_identifiers:
-              - com.googlecode.iterm2
-              - com.github.atom
-              - com.jetbrains.pycharm
-              - com.jetbrains.intellij
-              - com.visualstudio.code.oss
-              - md.obsidian
-              - io.imdone.app
           - name: vim_mode
             type: variable_if
             value: 1
+  - description: (Vim off 4/5) any key in iTerm, Atom Jetbrains, VS Code, MacVim
+    manipulators:
       - type: basic  # [any key in iTerm, Atom, PyCharm or VSCodium] Exit vim mode
         from:
           any: key_code
@@ -146,9 +120,12 @@ rules:
               - com.visualstudio.code.oss
               - md.obsidian
               - io.imdone.app
+              - org.vim.MacVim
           - name: vim_mode
             type: variable_if
             value: 1
+  - description: (Vim off 5/5) any pointing button
+    manipulators:
       - type: basic  # [any pointing button] Exit vim mode
         from:
           any: pointing_button
