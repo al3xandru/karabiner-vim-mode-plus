@@ -2045,7 +2045,7 @@ rules:
           - name: vim_mode
             type: variable_if
             value: 1
-  - description: (Vim 8/11) h,j,k,l (+ control/option/command/shift),e,b,0,^,$,gg,G,{,}
+  - description: (Vim 8/11) h,j,k,l (+ control/option/command/shift),e,b,0,^,$,gg,G,{,},w
     manipulators:
       - type: basic  # [h] Move cursor left
         from:
@@ -2377,6 +2377,23 @@ rules:
           - name: vim_mode
             type: variable_if
             value: 1
+      - type: basic # w beginning of next word
+        from:
+          key_code: w
+        to:
+          - key_code: right_arrow
+            modifiers:
+              - left_alt
+          - key_code: right_arrow
+            modifiers:
+              - left_alt
+          - key_code: left_arrow
+            modifiers:
+              - left_alt
+        conditions:
+          - name: vim_mode
+            type: variable_if
+            value: 1
   - description: (Vim 9/11) i,I,a,A,o,O
     manipulators:
       - type: basic  # [i] Exit vim mode at the cursor
@@ -2597,7 +2614,7 @@ rules:
           - name: vim_mode
             type: variable_if
             value: 1
-  - description: (Vim 11/11) disable unused keys
+  - description: (Vim 11.1/11) disable unused controls
     manipulators:
       - type: basic
         from:
@@ -2767,24 +2784,28 @@ rules:
           - name: vim_mode
             type: variable_if
             value: 1
+  - description: (Vim 11.2/11) disable unused keys
+    manipulators:
       - type: basic
         from:
           any: key_code
           modifiers:
-            optional:
+            mandatory:
               - any
         to:
           - key_code: vk_none
         conditions:
-          - type: frontmost_application_unless
-            bundle_identifiers:
-              - com.googlecode.iterm2
-              - com.github.atom
-              - com.jetbrains.pycharm
-              - com.jetbrains.intellij
-              - com.visualstudio.code.oss
-              - md.obsidian
-              - io.imdone.app
+          - name: vim_mode
+            type: variable_if
+            value: 1
+  - description: (Vim 11.3/11) disable non-control keys
+    manipulators:
+      - type: basic
+        from:
+          any: key_code
+        to:
+          - key_code: vk_none
+        conditions:
           - name: vim_mode
             type: variable_if
             value: 1
